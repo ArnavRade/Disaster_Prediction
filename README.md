@@ -3,7 +3,7 @@
 An AI-powered disaster intelligence platform that predicts the impact and risk zones of disasters at a city scale using machine learning, geospatial analysis, and grid-based landscape modeling.
 The system divides a city into hierarchical spatial grids, analyzes environmental and human-induced risk factors, and predicts disaster impact severity in each zone.
 
-Currently implemented for Guwahati, focusing on:
+Formerly implemented for Guwahati, currently implemented for any city, focusing on:
 Earthquakes
 Landslides
 
