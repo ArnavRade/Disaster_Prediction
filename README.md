@@ -144,3 +144,5 @@ Reinforcement learning for adaptive risk modeling
 IoT sensor integration for live monitoring
 
 UNEP API
+Mapbox API
+Google Weather API
